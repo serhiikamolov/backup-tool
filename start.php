@@ -68,7 +68,7 @@ function backup_tool_cleanup_cron($hook, $entity_type, $returnvalue, $params) {
             $offset = $day * 28;
     }
 
-    backup_tool_create_cleanup($offset);
+    backup_tool_cleanup($offset);
     
 
     return $returnvalue;
