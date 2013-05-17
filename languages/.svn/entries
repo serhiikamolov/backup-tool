@@ -1,0 +1,28 @@
+10
+
+dir
+0
+https://subversion.assembla.com/svn/hepicon/mod/backup-tool/languages
+https://subversion.assembla.com/svn/hepicon
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f04109d3-2ef5-4157-894e-87c534d007fb
+
